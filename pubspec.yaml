@@ -1,4 +1,4 @@
-name: restart_app
+name: flutter_restart_app
 description: A simple package that helps you to restart the whole android app with a single function call.
 version: 1.1.0+1
 homepage: https://github.com/gabrimatic/restart
